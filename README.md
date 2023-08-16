@@ -18,7 +18,7 @@ Adiciones:
 
  # Ciertas cosas a tener en cuenta:
 
-  · Las caras estan almacenadas en un arreglo bidimensional, así que por eso está escrito "faces[0][0]", el primero digito es el arreglo en donde estan las caras ASCII y donde quieres acceder, y el segundo digito es el valor de ese arreglo, en este caso las caras ASCII.
+  · Las caras ASCII estan almacenadas en un arreglo bidimensional, así que por eso está escrito "faces[0][0]", el primero digito es el arreglo en donde estan las caras ASCII y donde quieres acceder, y el segundo digito es el valor de ese arreglo, en este caso las caras ASCII.
 
   · Las opciones pueden ser modificadas, en vez de Sí o No, puedes escoger otras opciones que gustes, o si no te convence solo 2, puedes optar por cambiar la cantidad de opciones.
 
