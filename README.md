@@ -40,4 +40,4 @@ Simple, ejecuta "bash compile.sh" para ejecutar el script. Recuerda que solo com
 
 # VERSIÓN 1.0
 
-También puedes borrar el archivo "main.d" para que puedas incluir los archivos de logs.d, faces.d, y names.d en tu archivo principal donde tengas algún avance o cosas ya programadas.
+También puedes borrar el archivo "main.d" para que puedas incluir los archivos de logs.d, faces.d, y names.d en el archivo principal de algún proyecto, o incluso puedes usarlo como base para crear una historia interactiva basada en terminal.
