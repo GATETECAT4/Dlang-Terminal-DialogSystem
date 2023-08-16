@@ -6,7 +6,7 @@ Adiciones:
   
   · Mostrar opciones, pide 5 argumentos: el arte ASCII, el nombre del personaje, el diálogo, la primera opción y la segunda opción.<br> Esta función retorna true o false, asegurate de que la variable en donde lo llames sea de tipo bool.<br>
 
-  · Caras ASCII, eso sí, los personajes son de Cave Story, obvio puedes cambiarlos.<br>
+  · Caras ASCII, eso sí, los personajes son de Cave Story, obvio puedes cambiarlos a otras caras ASCII que incluso no sean de CaveStory.<br>
 
   # LOS PERSONAJES DE CAVE STORY NO ME PERTENECEN
 
@@ -39,3 +39,5 @@ Adiciones:
 Simple, ejecuta "bash compile.sh" para ejecutar el script. Recuerda que solo compila el código junto a los archivos necesarios.
 
 # VERSIÓN 1.0
+
+También puedes borrar el archivo "main.d" para que puedas incluir los archivos de logs.d, faces.d, y names.d en tu archivo principal donde tengas algún avance o cosas ya programadas.
