@@ -34,6 +34,8 @@ Adiciones:
 
 (USUARIOS DE LINUX): Les recomiendo ejecutar el script de bash para no tener que escribir toda la compilación completa.<br>
 
-¿Cómo se ejecuta el script?: bash compile.sh
+# ¿Cómo ejecuto el script de bash?
+
+Simple, ejecuta "bash compile.sh" para ejecutar el script. Recuerda que solo compila el código junto a los archivos necesarios.
 
 # VERSIÓN 1.0
