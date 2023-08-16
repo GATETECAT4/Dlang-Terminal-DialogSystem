@@ -37,4 +37,3 @@ Adiciones:
 ¿Cómo se ejecuta el script?: bash compile.sh
 
 # VERSIÓN 1.0
-
